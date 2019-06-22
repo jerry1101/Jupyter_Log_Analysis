@@ -1,1 +1,3 @@
-[{'SupplyRouteKey': '4638', 'ItemKey': '10006', 'WithSupplyChainDetails': 'false'}, 1561170844.7876415, 1561170844.827646, 40]
+06/22/2019 17:51:29 [INFO] <ipython-input-1-e4614453d3b1>: info
+06/22/2019 17:51:29 [ERROR] <ipython-input-1-e4614453d3b1>: error
+06/22/2019 17:51:29 [DEBUG] <ipython-input-1-e4614453d3b1>: debug
